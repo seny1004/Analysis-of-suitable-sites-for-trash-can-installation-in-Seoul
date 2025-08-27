@@ -1,18 +1,3 @@
-<a href="https://club-project-one.vercel.app/" target="_blank">
-<img src="https://github.com/user-attachments/assets/daa622b9-7c69-4786-8db3-4996b7f140be" alt="배너" width="100%"/>
-</a>
-
-<br/>
-<br/>
-
-# 0. Getting Started (시작하기)
-```bash
-$ npm start
-```
-
-<br/>
-<br/>
-
 # 1. Project Overview (프로젝트 개요)
 - 프로젝트 이름: 데이터 기반 서울시 쓰레기통 설치 적합지 분석
 
@@ -316,4 +301,5 @@ UI개발을 위한 라이브러리 styled-components 설치
 # 10. 컨벤션 수행 결과
 <img width="100%" alt="코드 컨벤션" src="https://github.com/user-attachments/assets/0dc218c0-369f-45d2-8c6d-cdedc81169b4">
 <img width="100%" alt="깃플로우" src="https://github.com/user-attachments/assets/2a4d1332-acc2-4292-9815-d122f5aea77c">
+
 
